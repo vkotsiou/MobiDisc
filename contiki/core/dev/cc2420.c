@@ -1,4 +1,4 @@
-// Modification Radio Driver for MobiDisc with FastHandOver
+// Modification of Radio Driver for MobiDisc with FastHandOver
 // 22/06/2015
 // Vasileios Kotsiou
 
